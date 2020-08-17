@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React and Firebase app
+    
+- Simple CRUD with Firebase
+- Suscriptions to Firebase with snapshots
+- UI With Bootswatch
+
 
 ## Available Scripts
 
